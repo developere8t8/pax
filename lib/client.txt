@@ -1,0 +1,2 @@
+1. Required Email to geenrate countries api token for gettingname of states in sign up page.
+2. strip account details
